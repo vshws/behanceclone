@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "react-scripts build --output-path build",
-    "start": "vite --host",
+    "start": "react-scripts start",
     "dev": "vite --host",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
